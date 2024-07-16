@@ -7,6 +7,7 @@ This repository contains examples of various design patterns implemented in Java
 - [Introduction](#introduction)
 - [Creational Patterns](#creational-patterns)
     - [Singleton](#singleton)
+    - [Factory Method](#factory-method)
 - [Structural Patterns](#structural-patterns)
 - [Behavioral Patterns](#behavioral-patterns)
 
@@ -19,7 +20,7 @@ Design patterns are reusable solutions to common problems that occur in software
 Creational patterns focus on object creation mechanisms, providing ways to create objects in a manner suitable for a particular situation. Examples of creational patterns include:
 
 - [Singleton](creational/singleton.js)
-- Factory Method
+- [Factory Method](creational/factoryMethod.js)
 - Abstract Factory
 - Builder
 - Prototype
