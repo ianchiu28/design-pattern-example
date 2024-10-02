@@ -38,7 +38,7 @@ Structural patterns deal with object composition, providing ways to organize obj
 Behavioral patterns focus on communication between objects, providing ways to define how objects interact and distribute responsibilities. Examples of behavioral patterns include:
 
 - Observer
-- Strategy
+- [Strategy](behavioral/strategy.js)
 - Command
 - Iterator
 - Template Method
