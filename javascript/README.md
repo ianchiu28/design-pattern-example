@@ -8,6 +8,7 @@ This repository contains examples of various design patterns implemented in Java
 - [Creational Patterns](#creational-patterns)
     - [Singleton](#singleton)
     - [Factory Method](#factory-method)
+    - [Builder](#builder)
 - [Structural Patterns](#structural-patterns)
 - [Behavioral Patterns](#behavioral-patterns)
 
