@@ -22,7 +22,7 @@ Creational patterns focus on object creation mechanisms, providing ways to creat
 - [Singleton](creational/singleton.js)
 - [Factory Method](creational/factoryMethod.js)
 - Abstract Factory
-- Builder
+- [Builder](creational/builder.js)
 - Prototype
 
 ## Structural Patterns
